@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WELCOME</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="roachlje275.github.io/"/>
+  <updated>2020-06-22T13:30:38.795Z</updated>
+  <id>roachlje275.github.io/</id>
+  
+  <author>
+    <name>Roger Lao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EVE-NG对Openstack实例的融合</title>
+    <link href="roachlje275.github.io/2020/06/20/My-First-Post/"/>
+    <id>roachlje275.github.io/2020/06/20/My-First-Post/</id>
+    <published>2020-06-20T10:02:03.000Z</published>
+    <updated>2020-06-22T13:30:38.795Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="系统环境"><a href="#系统环境" class="headerlink" title="系统环境"></a><strong>系统环境</strong></h5><h6 id=""><a href="#" class="headerlink" title=""></a></h6>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;系统环境&quot;&gt;&lt;a href=&quot;#系统环境&quot; class=&quot;headerlink&quot; title=&quot;系统环境&quot;&gt;&lt;/a&gt;&lt;strong&gt;系统环境&lt;/strong&gt;&lt;/h5&gt;&lt;h6 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
