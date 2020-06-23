@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="roachlje275.github.io/"/>
   <updated>2020-06-23T10:23:12.151Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>roachlje275.github.io/</id>
   
   <author>
     <name>Roger Lao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Openstack Instances Merge Instruction Using EVE-NG</title>
-    <link href="http://yoursite.com/2020/06/22/2-Openstack-Instacne-Merge-Using-EVE-NG/"/>
-    <id>http://yoursite.com/2020/06/22/2-Openstack-Instacne-Merge-Using-EVE-NG/</id>
+    <link href="roachlje275.github.io/2020/06/22/2-Openstack-Instacne-Merge-Using-EVE-NG/"/>
+    <id>roachlje275.github.io/2020/06/22/2-Openstack-Instacne-Merge-Using-EVE-NG/</id>
     <published>2020-06-22T14:21:09.000Z</published>
     <updated>2020-06-23T10:23:12.151Z</updated>
     
@@ -33,16 +33,16 @@
     
     
     
-      <category term="Openstack" scheme="http://yoursite.com/tags/Openstack/"/>
+      <category term="Openstack" scheme="roachlje275.github.io/tags/Openstack/"/>
     
-      <category term="EVE-NG" scheme="http://yoursite.com/tags/EVE-NG/"/>
+      <category term="EVE-NG" scheme="roachlje275.github.io/tags/EVE-NG/"/>
     
   </entry>
   
   <entry>
     <title>写在前面</title>
-    <link href="http://yoursite.com/2020/06/20/My-First-Post/"/>
-    <id>http://yoursite.com/2020/06/20/My-First-Post/</id>
+    <link href="roachlje275.github.io/2020/06/20/My-First-Post/"/>
+    <id>roachlje275.github.io/2020/06/20/My-First-Post/</id>
     <published>2020-06-20T10:02:03.000Z</published>
     <updated>2020-06-22T14:19:13.616Z</updated>
     
