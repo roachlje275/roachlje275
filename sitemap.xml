@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>roachlje275.github.io/2020/06/20/My-First-Post/</loc>
+    <loc>http://yoursite.com/2020/06/22/2-Openstack-Instacne-Merge-Using-EVE-NG/</loc>
     
-    <lastmod>2020-06-22T13:30:38.795Z</lastmod>
+    <lastmod>2020-06-23T10:23:12.151Z</lastmod>
     
   </url>
   
   <url>
-    <loc>roachlje275.github.io/About-Me/index.html</loc>
+    <loc>http://yoursite.com/2020/06/20/My-First-Post/</loc>
+    
+    <lastmod>2020-06-22T14:19:13.616Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/About-Me/</loc>
     
     <lastmod>2020-06-20T16:16:17.130Z</lastmod>
     
